@@ -1,4 +1,4 @@
- Online Banking App ![Build Status](https://travis-ci.org/openMF/online-banking.svg?branch=master)
+ Online Banking App ![Build Status]
 
 Online Banking App is the revamped version of Web Self Service App. The app leverages standard web technologies and was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
@@ -34,7 +34,7 @@ ng serve
 
 The application is using the development server mobile instance with basic authentication by default. The credentials for the same are:
  
-    Username- selfservice_imobile
+    Username - selfservice_imobile
     Password - password
 
 **Important Note:** Please do not make any alterations to these credentials.
