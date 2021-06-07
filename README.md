@@ -1,4 +1,4 @@
- Online Banking App ![Build Status]
+Online Banking App
 
 Online Banking App is the revamped version of Web Self Service App. The app leverages standard web technologies and was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
